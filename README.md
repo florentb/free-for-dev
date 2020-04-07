@@ -776,6 +776,7 @@ Table of Contents
    * [shrinkray.io](https://shrinkray.io/) — Free image optimization of GitHub repos
    * [tinypng.com](https://tinypng.com/) — API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
    * [transloadit.com](https://transloadit.com/) — Handles file uploads and encoding of video, audio, images, documents. Free for Open source, charities, and students via the GitHub Student Developer Pack. Commercial applications get 2 GB free for test driving
+   * [TwicPics.com](https://www.twicpics.com/) - Responsive Image as a Service. TwicPics offers on-demand responsive image generation combined with a smart and unobtrusive javascript library, all based around a no-nonsense, testable, URL-based API. Free up to 3GB/month.
 
 ## Design and UI
 
